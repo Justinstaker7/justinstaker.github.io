@@ -1,0 +1,51 @@
+html {
+    background-color: slategray;
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: slategray;
+    background-color: midnightblue;
+    border-radius: 1em;
+}
+
+main {
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: white;
+}
+
+body {
+    background-color: white;
+    max-width: 850px;
+    margin: auto;
+    border-radius: 1em;
+    
+}
+
+footer {
+    padding: 1em;
+    text-align: center;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    color: slategray;
+    background-color: midnightblue;
+    border-radius: 1em;
+    
+}
+
+.date {
+    color: yellow;
+}
+
+.myPicture {
+    max-width: 180px;
+    float: right;
+    margin: 1em;
+    border-radius: 1em;
+    
+}
+
